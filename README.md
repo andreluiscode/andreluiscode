@@ -56,5 +56,5 @@ Sou apaixonado por tecnologia e estou construindo minha jornada na área de dese
 ⭐  Sempre aprendendo, construindo e evoluindo.
 
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg
+![snake gif](https://github.com/andreluiscode/andreluiscode/blob/output/github-contribution-grid-snake.svg)
 
