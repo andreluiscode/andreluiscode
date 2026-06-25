@@ -6,19 +6,6 @@ Sou apaixonado por tecnologia e estou construindo minha jornada na área de dese
 
 ---
 
-## 🌐 Onde você pode me encontrar
-
-<p align="left">
-  <a href="https://github.com/andreluiscode">
-    <img src="https://img.shields.io/badge/GitHub-andreluiscode-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/andreluis_gf/">
-    <img src="https://img.shields.io/badge/Instagram-@andreluis_gf-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 📚 Atualmente estudando
 
 - Desenvolvimento com Python
