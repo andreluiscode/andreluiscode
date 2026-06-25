@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia e estou construindo minha jornada na área de dese
 ### Backend
 
 
-![Phython](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+![Phython](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 
