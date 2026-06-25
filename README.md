@@ -37,7 +37,7 @@ Sou apaixonado por tecnologia e estou construindo minha jornada na área de dese
 ### Backend
 
 
-![Phython]()
+![Phython](https://example.com/caminho/para/logo-python.png))
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 
